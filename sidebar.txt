@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ylo:home|Door43 (ylo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ylo|d43-ylo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ylo/archive/master.zip|d43-ylo.zip]]
+
+**Recent Changes**
+{{changes>ns = ylo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ylo|Ethnologue data]]
+
